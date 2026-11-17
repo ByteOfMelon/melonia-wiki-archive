@@ -1,0 +1,1 @@
+{"display":"standalone","scope":"\/","name":"Melonia Civic Society","short_name":"Melonia Civic Society","description":"For the glory of Melonia!","start_url":"\/","background_color":"#fff","theme_color":"#eee","icons":[{"src":"https:\/\/melonia-wiki.osolia.xyz\/_media\/wiki\/dokuwiki.svg","sizes":"17x17 512x512","type":"image\/svg+xml"}]}
